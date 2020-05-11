@@ -1,6 +1,6 @@
 # electroniccoupling
 Electronic coupling code from roughly 2012-2013
-Implementation formerly ran with the 2013 version of GAMESS but these source files do not currently work with the 2020 release. Debugging has been rigorously attempted but has not been fixed.
+Implementation formerly ran with the 2013 version of GAMESS but these source files do not currently work with the 2020 release. Debugging has been rigorously attempted but the many issues have not been fixed to be able to offer a stable release.
 Please contact me if you are interested in adapting this code to work in the latest releases.
 
 Main modules added for electronic coupling are all in source file:  ecoupl.src
